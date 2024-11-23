@@ -1,0 +1,3 @@
+[submodule "todofront"]
+	path = todofront
+	url = https://github.com/facebook/create-react-app
